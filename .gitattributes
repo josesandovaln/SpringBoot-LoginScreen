@@ -1,0 +1,7 @@
+$ cat .gitattributes
+
+
+* linguist-vendored
+*.html linguist-language=java
+*.html linguist-vendored=false
+*.java linguist-detectable=true
